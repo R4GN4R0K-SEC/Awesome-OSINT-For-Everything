@@ -9,9 +9,11 @@
  ░█▀▀░█░█░█▀█░█▀▀░▀█▀<br>
  ░█░█░█▀█░█░█░▀▀█░░█░<br> 
  ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░<br>
+<img src="https://github.com/user-attachments/assets/f001c087-39e3-4d21-8a87-dfc308f4b5c1"><br>
 Awesome OSINT For Everything <img src="https://awesome.re/badge-flat.svg"></p></h1>
 <h3 align="center"><i> 
-A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.</i></h3>
+A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.</i>
+</h3>
 
 <!---<p align="center">
 	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>
