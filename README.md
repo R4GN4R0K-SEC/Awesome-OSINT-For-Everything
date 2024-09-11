@@ -4,11 +4,12 @@
 <!---<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
 --->
 <h1 align="center">
-<b>Awesome OSINT For Everything</b> <img src="https://awesome.re/badge-flat.svg"/b>
-<p align="center">🔥░░░💀░🅰🅽🅾🅽🆈🅼🅾🆄🆂░💀░░░🔥<br>  
+<p align="center">
+🔥💀🅰🅽🅾🅽🆈🅼🅾🆄🆂💀🔥<br>  
  ░█▀▀░█░█░█▀█░█▀▀░▀█▀<br>
  ░█░█░█▀█░█░█░▀▀█░░█░<br> 
- ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░</p></h1>
+ ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░<br>
+Awesome OSINT For Everything <img src="https://awesome.re/badge-flat.svg"></p></h1>
 <h3 align="center"><i> 
 A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.</i></h3>
 
