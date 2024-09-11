@@ -1,26 +1,26 @@
 <base target="_blank">
+<html>
+<head> 
 <!---<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
 --->
 <h1 align="center">
- <p>
- 🔥░░░💀░🅰🅽🅾🅽🆈🅼🅾🆄🆂░💀░░░🔥 </br >  
- ░█▀▀░█░█░█▀█░█▀▀░▀█▀ </br > 
- ░█░█░█▀█░█░█░▀▀█░░█░ </br > 
- ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░ </br > 
- </p>
-	 
-<b>Awesome OSINT For Everything</b> <img src="https://awesome.re/badge-flat.svg"/></h1>
-
-<p align="center">
-A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.
-</p>
-
+<b>Awesome OSINT For Everything</b> <img src="https://awesome.re/badge-flat.svg"/b>
+<p align="center">🔥░░░💀░🅰🅽🅾🅽🆈🅼🅾🆄🆂░💀░░░🔥<br>  
+ ░█▀▀░█░█░█▀█░█▀▀░▀█▀<br>
+ ░█░█░█▀█░█░█░▀▀█░░█░<br> 
+ ░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░</p></h1>
+<h3 align="center"><i> 
+A list of osint tools, websites for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and almost cover everything in single file.</i></h3>
 
 <!---<p align="center">
 	<a href="https://github.com/astrosp/osint-tools#PRODUCTIVITY" target="_blank">Productivity</a>
 	<a href="https://github.com/astrosp/osint-tools#FILE UPLOAD" target="_blank">File Upload</a>
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
+
+</head>
+</html>
+
 ## Index
  [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Top Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Search Engine](#search-engines) ⁕ [News](#news) ⁕ [Clubhouse](#clubhouse) ⁕ [Bot](#bot) ⁕ [Analysis](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Threat Intel](#threat-intel) ⁕ [Identity Resolution](#identity-resolution) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Radio](#radio) ⁕ [Open Directory](#open-directory) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Informant](#informant) ⁕ [Public Record](#public-records) ⁕ [Government](#government) ⁕ [Image and Audio](#images-and-audio)
 
