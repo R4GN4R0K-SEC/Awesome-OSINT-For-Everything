@@ -2,6 +2,10 @@
 <!---<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
 --->
 <h1 align="center">
+🔥░░░💀░🅰🅽🅾🅽🆈🅼🅾🆄🆂░💀░░░🔥
+░█▀▀░█░█░█▀█░█▀▀░▀█▀
+░█░█░█▀█░█░█░▀▀█░░█░
+░▀▀▀░▀░▀░▀▀▀░▀▀▀░░▀░ </br>
 <b>Awesome OSINT For Everything</b> <img src="https://awesome.re/badge-flat.svg"/></h1>
 
 <p align="center">
